@@ -1,0 +1,30 @@
+
+.about{
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    list-style-type: disc;
+    border: 1px solid white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.items{
+    font-weight: bold;
+    font-size: 16px;
+    color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.links a{
+color:white;}
+.sub a{
+	color:white;
+}
+.new a{
+	color:white;
+}
+.form a{
+	color:white;
+}

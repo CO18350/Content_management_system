@@ -1,0 +1,52 @@
+.header{
+    background-color: blue;
+    padding: 8px;
+    font-size: 40px;
+    position: fixed;
+    width: 100%;
+    color: white;
+    font-family: arial black;
+}
+.dropdownmenu{
+    position: relative;
+    display: inline-block;
+  }
+.dropdownitems{
+        display: none;
+    }
+.dropdownmenu:hover .dropdownitems{
+        display: block;
+    }
+.container{
+    padding: 200px;
+    padding-left: 40px;
+    background-color: firebrick;
+    width: 10%;
+    height: 340px;
+}
+.about{
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    list-style-type: disc;
+    border: 1px solid white;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.items{
+    font-weight: bold;
+    font-size: 16px;
+    color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.links a{
+color:white;}
+.sub a{
+	color:white;
+}
+.new a{
+	color:white;
+}
